@@ -1,10 +1,6 @@
 from feature_1 import say_hello
 
 if __name__ == '__main__':
-    say_hello(n=300)
-
-    print("OK enough hellos")
-
     print(" " * 12 + "_" * 60)
     print(" " * 10 + "/" + " " * 58 + "\\")
     print(" " * 9 + "/" + " " * 60 + "\\")
@@ -29,3 +25,5 @@ if __name__ == '__main__':
     print(" " * 9 + "\\" + "_" * 60 + "/")
     print(" " * 10 + "\\" + "_" * 58 + "/")
     print(" " * 30 + "👁️   ASCII INTENSIFIES   👁️")
+    
+    print("Hello World")
